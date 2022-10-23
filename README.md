@@ -1,5 +1,5 @@
 # todo_api
-todoを登録・削除・編集が行えるapiです 
+todoを登録・削除・編集が行えるapiです  
 期日とtodo(すること)を登録できます
 
 Name
