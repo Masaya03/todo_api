@@ -18,9 +18,9 @@ Overview
 ## Usage
 
 ## Install
-from . import crud, models, schemas
-from .database import SessionLocal, engine
-およびfastapiなどのインストールが必要になります
+from . import crud, models, schemas  
+from .database import SessionLocal, engine  
+およびfastapiなどのインストールが必要になります  
 
 ## Contribution
 
